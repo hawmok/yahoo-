@@ -1,0 +1,12 @@
+@font-face {
+  font-family: Outward;
+  src: url("./font/outward-borders-webfont.woff2") format(woff2), 
+  url("./font/outward-borders-webfont.woff") format(woff);
+  font-weight: 400;
+  font-style: normal;
+}
+
+a{
+    font-family: 'Outward';
+    font-size: 120px;
+}
